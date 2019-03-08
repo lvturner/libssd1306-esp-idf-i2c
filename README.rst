@@ -17,7 +17,7 @@ This can be included as a component in an existing ESP32 project using the `esp-
 From you project root
 
 ```
-git submodule add https://github.com/morganrallen/libssd1306-esp-idf-i2c.git components/libssd1306-esp-idf-i2c
+git submodule add https://github.com/lvturner/libssd1306-esp-idf-i2c.git components/libssd1306-esp-idf-i2c
 make # Enable SSD1306, set SDA/SCL to appropriate pins
 ```
 
